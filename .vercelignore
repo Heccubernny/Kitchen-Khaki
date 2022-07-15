@@ -1,0 +1,8 @@
+/vendor
+/.idea
+Homestead.json
+/*
+!api
+!vercel.json
+!*.html
+!*.cssHomestead.yaml
